@@ -1,2 +1,2 @@
-# My-Engine
-2D game engine
+# Engine++
+game engine project
